@@ -1,3 +1,0 @@
-// Lowercase
-
-//.toLowerCase() method
